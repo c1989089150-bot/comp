@@ -1,0 +1,21 @@
+The Problem:
+Once enrolled in a program, students receive a course plan. However, still many choices remain: 
+can I switch to core courses in a different order to the plan? Which electives should I take? 
+Which major and courses should I take for specific career paths?
+
+Challenge: 
+The challenge is to innovate a software-based solution to help students to navigate selection of majors, courses, etc., 
+throughout various stages of their degree program.
+
+Our (Potential) Solution(s):
+Instead of students using a course plan to organise their courses, we can create a software algorithm 
+that automatically enrols students in courses according to the course plan. This minimizes the potential of 
+enrolling in the incorrect courses, outside of the course plan, as students will no longer have to individually 
+enrol in separate courses.
+In the case of electives, students will be shown a drop down menu of eligible electives, limited depending on their degree,
+number of electives, major, etc.
+
+Hypothesis:
+If students are provided with a software-based enrolment tool that automatically selects core courses according to 
+their degree plan and restricts elective choices to only eligible options based on their program, major, 
+and remaining requirements, then students will make fewer enrolment errors, and feel more informed on their education choices. 
